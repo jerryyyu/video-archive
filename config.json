@@ -1,0 +1,25 @@
+{
+  "paths": {
+    "camera_mounts": [
+      "/Volumes/DJI"
+    ],
+    "local_archive": "~/Documents/DJI",
+    "local_scan_extras": [],
+    "external_archive": "",
+    "capcut_exports": "~/Movies/CapCut"
+  },
+  "rules": {
+    "exclude_extensions": [
+      ".LRF",
+      ".THM",
+      ".SCR"
+    ],
+    "exclude_glob": [
+      "._*",
+      ".DS_Store"
+    ],
+    "exclude_dirs": [
+      "User Data"
+    ]
+  }
+}
